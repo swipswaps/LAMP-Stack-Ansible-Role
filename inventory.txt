@@ -1,2 +1,2 @@
 [Target]
-target1 ansible_host=localhost ansible_user=student1 ansible_ssh_pass=Aa8kWesVD98cQ9
+target1 ansible_host=localhost ansible_user=student1 ansible_ssh_pass=<< Your SSH PASSWORD >>
